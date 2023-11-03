@@ -1,0 +1,106 @@
+   
+
+
+body {
+        background-color:white;
+        margin: 0px;
+        padding: 0px;
+        }
+
+        header {
+        background-color: black;
+        color: white;
+        height: 90px;
+        padding: 10px;
+        text-align: center;
+        vertical-align: middle;
+        }
+
+        nav {
+        background-color: gray;
+        text-align: center;
+        padding: 5px;
+        height: 30px;
+        vertical-align: middle;
+        }
+
+        nav a {
+         color: white;
+         text-decoration: none;
+         margin: 5px;
+        }
+
+        .container {
+
+           margin: 0px auto;
+           vertical-align: middle;
+           background-color: white;
+           border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+           height: 330px;
+           width: 700px;
+        }
+
+        .box {
+         margin: 10px auto;
+         vertical-align: middle;
+           vertical-align: middle;
+           height: 55px;
+           width: 650px;
+           padding: auto;
+           background-color:rgb(81, 146, 199);
+           text-align: center;
+           vertical-align: middle;
+           color: white;
+            border-bottom: white;
+            border-width: 20px;
+        }
+
+        .red-box {
+         
+         vertical-align: middle;
+         height: 55px;
+         width: 650px;
+         background-color: red;
+         text-align: center;
+         vertical-align: middle;
+           color: white;
+            
+        }
+
+        .green-box {
+         
+         vertical-align: middle;
+         height: 55px;
+         width: 650px;
+         background-color: greenyellow;
+         text-align: center;
+         vertical-align: middle;
+           color: white;
+        }
+
+        .blue-box {
+         
+         vertical-align: middle;
+         height: 55px;
+         width: 650px;
+         background-color: blue;
+         text-align: center;
+         vertical-align: middle;
+           color: white;
+        }
+		
+		
+		#rollover ul li {
+         <img src="fortuna.png" width="10px"
+         height="10px" align="right"/>
+}
+
+
+#rollover ul li:hover {
+	
+
+}
+		
+		
+		
